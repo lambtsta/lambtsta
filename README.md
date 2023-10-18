@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lloyd Anthony M. bautista</h1>
+<h1 align="center">Hi 👋, I'm Lloyd Anthony M. Bautista</h1>
 <h3 align="center">An aspiring Web Developer</h3>
 
 - 🌱 I’m currently studying **Three.JS**
