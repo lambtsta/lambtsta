@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lloyd Anthony M. bautista</h1>
 <h3 align="center">An aspiring Web Developer</h3>
 
-###Connect with me:
+### Connect with me:
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/lloyd-anthony-bautista-294240287#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/lloyd-anthony-bautista-294240287#gh-dark-mode-only)
 &nbsp;&nbsp;
