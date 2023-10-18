@@ -2,8 +2,8 @@
 <h3 align="center">An aspiring Web Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/lloyd-anthony-bautista-294240287/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/lloyd-anthony-bautista-294240287#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/lloyd-anthony-bautista-294240287#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
