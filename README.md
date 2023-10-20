@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lloyd Anthony M. Bautista</h1>
 <h3 align="center">An aspiring Web Developer</h3>
 
-- 🌱 I’m currently studying **Three.JS**
+- 🌱 I’m currently studying **React.JS**
 
 - 👨‍💻 All of my projects are available at [https://lloyd-portfolio-128lamb.netlify.app/](https://lloyd-portfolio-128lamb.netlify.app/)
 
